@@ -1,0 +1,48 @@
+#et-boc .wpfd-content-table_clone .wpfd-table_clone thead th, .wpfd-content-table_clone .wpfd-table_clone thead th {
+  line-height: 30px;
+  font-weight: normal;
+  white-space: nowrap;
+  padding: 15px 0 15px 10px !important;
+  font-size: 18px !important;
+  color: #000000 !important;
+  text-align: left;
+  text-transform: none;
+  vertical-align: middle;
+  background-color: #fff;
+  border: none !important;
+}
+
+#et-boc .wpfd-content-table_clone a .zmdi, .wpfd-content-table_clone a .zmdi {
+ font-size: 18px !important;
+  vertical-align: middle;
+}
+#et-boc .wpfd-content-table_clone tr, #et-boc .wpfd-content-table_clone td, #et-boc .wpfd-content-table_clone thead, #et-boc .wpfd-content-table_clone tbody, #et-boc .wpfd-content-table_clone th, .wpfd-content-table_clone tr, .wpfd-content-table_clone td, .wpfd-content-table_clone thead, .wpfd-content-table_clone tbody, .wpfd-content-table_clone th {
+  font-size: 18px !important;
+  color: #000000 !important;
+}
+
+#et-boc .wpfd-content-table_clone a.wpfd_downloadlink, .wpfd-content-table_clone a.wpfd_downloadlink {
+  color: #000000 !important;
+  background-color: transparent !important;
+  font-size: 18px !important;
+  text-transform: none;
+}
+#btnsearchbelow {
+  background-color: #eb5d13!important;;
+  color: #ffffff;
+  border-radius: 50px;
+  text-align: center;
+  text-transform: none!important;
+  font-size: 18px !important;
+  padding: 8px 40px !important;
+  margin: 0px 0px 0px 30px !important;
+}
+#btnReset {
+  background-color: #000000!important;;
+  color: #ffffff;
+1562<br />
+<b>Warning</b>:  Attempt to read property "data" on bool in <b>/var/www/env/wp-content/plugins/wp-file-download/app/site/controllers/file.php</b> on line <b>582</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "user_email" on null in <b>/var/www/env/wp-content/plugins/wp-file-download/app/site/controllers/file.php</b> on line <b>583</b><br />
+<br />
+<b>Warning</b>:  Attempt to read property "user_email" on null in <b>/var/www/env/wp-content/plugins/wp-file-download/app/site/controllers/file.php</b> on line <b>584</b><br />

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="514d5f7e-1151-47f4-9d19-40c9f0a3538e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../.." />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="238HYAFmdF8QLKjhEAh5NXHOz7f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../wordpress/wp-content/plugins/gcoautumn" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="514d5f7e-1151-47f4-9d19-40c9f0a3538e" name="Default Changelist" comment="" />
+      <created>1641108838782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641108838782</updated>
+      <workItem from="1641108840057" duration="3776000" />
+      <workItem from="1641478327514" duration="2623000" />
+      <workItem from="1641745816674" duration="774000" />
+      <workItem from="1641821676061" duration="1004000" />
+      <workItem from="1641906351384" duration="4383000" />
+      <workItem from="1641995594017" duration="657000" />
+      <workItem from="1642080455364" duration="6007000" />
+      <workItem from="1642166688077" duration="2405000" />
+      <workItem from="1642260812267" duration="3468000" />
+      <workItem from="1644370825134" duration="2013000" />
+      <workItem from="1644376731707" duration="9108000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="913" y="319" width="724" height="836" key="#PHP" timestamp="1641909749013">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="913" y="319" width="724" height="836" key="#PHP/0.27.2560.1413@0.27.2560.1413" timestamp="1641909749013" />
+    <state x="797" y="373" width="374" height="366" key="FileChooserDialogImpl" timestamp="1644376544802">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="797" y="373" width="374" height="366" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1644376544802" />
+    <state x="1063" y="491" width="424" height="491" key="FileChooserDialogImpl/0.27.2560.1413@0.27.2560.1413" timestamp="1641909745602" />
+    <state x="761" y="368" width="1037" height="737" key="SettingsEditor" timestamp="1642264214711">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="761" y="368" width="1037" height="737" key="SettingsEditor/0.27.2560.1413@0.27.2560.1413" timestamp="1642264214711" />
+    <state width="575" height="447" key="SwitcherDM" timestamp="1641392535583">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="575" height="447" key="SwitcherDM/0.27.2560.1413@0.27.2560.1413" timestamp="1641392535583" />
+    <state x="683" y="349" width="709" height="528" key="find.popup" timestamp="1644391233291">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="683" y="349" width="709" height="528" key="find.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1644391233291" />
+    <state x="910" y="459" width="739" height="548" key="find.popup/0.27.2560.1413@0.27.2560.1413" timestamp="1642262938783" />
+    <state x="707" y="267" width="672" height="506" key="search.everywhere.popup" timestamp="1644381342050">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="707" y="267" width="672" height="506" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1644381342050" />
+    <state x="943" y="349" width="672" height="678" key="search.everywhere.popup/0.27.2560.1413@0.27.2560.1413" timestamp="1642264108349" />
+  </component>
+</project>
